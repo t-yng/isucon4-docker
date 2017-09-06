@@ -1,5 +1,7 @@
 # README
 
+[matsuu/isucon4-qualifier-standalone](https://hub.docker.com/r/matsuu/isucon4-qualifier-standalone/~/dockerfile/)をベースに個人用に扱いやすくしたisucon4のDockerの仮想環境です。
+
 ## 使い方
 
 ### コンテナの作成と起動
