@@ -26,5 +26,9 @@ $ docker restart isucon4
 $ docker exec isucon4 /home/isucon/benchmarker bench
 ```
 
+### Linuxの情報
+ディストリビューション: CentOS6
+Webサーバー ソフトウェア: nginx
+
 ### 参考資料
 [ISUCON4 予選当日マニュアル](https://gist.github.com/mirakui/e394ed543415852d34a6)
