@@ -13,7 +13,7 @@ $ ./startup.sh
 初期状態では Node.js の実装が起動しています。
 
 #### コンテナ未作成
-`supervisord.conf`にて希望の言語を`autostart=true`にし、`[isucon_ruby]`を`autostart=false`に変更する。
+`supervisord.conf`にて希望の言語を`autostart=true`にし、`[isucon_node]`を`autostart=false`に変更する。
 
 #### コンテナ作成済
 コンテナ内の`/etc/supervisord.conf`を編集して、コンテナを再起動する。
