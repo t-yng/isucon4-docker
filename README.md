@@ -26,6 +26,10 @@ $ docker restart isucon4
 $ docker exec isucon4 /home/isucon/benchmarker bench
 ```
 
+### 接続情報
+- アプリケーション: http://localhost:8010
+- MySQL: http://localhost:3306
+
 ### Linuxの情報
 ディストリビューション: CentOS6  
 Webサーバー ソフトウェア: nginx
